@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @talhaorak. I am a sr. software architect.
-- 👀 I’m interested in C++, Golang, Rust, Python, Js, React and Elixir.
-- 🌱 I’m currently learning about ML
-- 💞️ I’m looking to collaborate on not-so-boring projects.
-- 📫 How to reach me: my handle at-sign gmail
+- 👋 Hi, I’m @talhaorak. I am a ~~sr. software architect.~~ vibe-engineer
+- 👀 I enjoy manual coding with my mechanical keyboard in C++, Golang, Rust, Python, Js, React and Elixir with vim 🤓
+- Working on agent orchestration, concensus protocols, prefrontal-cortex implementation
+- [#OpenToWork](https://linkedin.com/in/talhaorak)
+- 📫 How to reach me: my handle at-sign gmail or [Linkedin](https://linkedin.com/in/talhaorak)
